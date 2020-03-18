@@ -1,5 +1,6 @@
 # Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 # SPDX-License-Identifier: MIT-0
+# Testing the CI/CD pipeline
 
 from web import myapp
 import unittest
